@@ -1,4 +1,3 @@
-# book_recommendation_system_fastapi_knn
 # Book Recommendation System
 
 A simple book recommendation API built with FastAPI. This system allows users to manage a collection of books and receive recommendations based on book names and genres using the K-Nearest Neighbors (KNN) algorithm.
